@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Klava\Klava\bin\Debug\Klava.exe.config
+C:\Users\Lenovo\Desktop\Klava\Klava\bin\Debug\Klava.exe
+C:\Users\Lenovo\Desktop\Klava\Klava\bin\Debug\Klava.pdb
+C:\Users\Lenovo\Desktop\Klava\Klava\obj\Debug\Klava.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Klava\Klava\obj\Debug\Klava.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Klava\Klava\obj\Debug\Klava.exe
+C:\Users\Lenovo\Desktop\Klava\Klava\obj\Debug\Klava.pdb

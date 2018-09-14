@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klava", "Klava\Klava.csproj", "{19C64451-C85B-4606-8346-2C129BD64F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C64451-C85B-4606-8346-2C129BD64F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C64451-C85B-4606-8346-2C129BD64F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C64451-C85B-4606-8346-2C129BD64F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C64451-C85B-4606-8346-2C129BD64F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD26F56-460E-4276-ABB4-6F9750EE8579}
+	EndGlobalSection
+EndGlobal
